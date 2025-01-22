@@ -123,8 +123,8 @@
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
-    "value": "255752593977"
+    "required":true,
+    "value": "2349033928116 "
   },
     "WARN_COUNT":
   {
